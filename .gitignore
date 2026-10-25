@@ -1,0 +1,44 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/LocalBackups/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/MemoryCaptures/
+/Recordings/
+
+# IDE and local tools
+/.vs/
+/.idea/
+/.freebuff/
+/.codex/
+/.agents/
+/.aws/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.pidb
+*.booproj
+*.unityproj
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+
+# Crash reports
+sysinfo.txt
+mono_crash.*

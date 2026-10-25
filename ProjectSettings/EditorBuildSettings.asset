@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/ModeSelect.unity
+    guid: 0f0ce8517b47840409b8a3863a8446ea
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 887154e77c0f7af4da2aafba50e71091
+  - enabled: 1
+    path: Assets/Scenes/FREESTYLE.unity
+    guid: 9b735d5f2c75acd409156a14670c98ff
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: b1b9557b9f2d4980b2185026dff11520
+  - enabled: 1
+    path: Assets/Scenes/MultiPlay.unity
+    guid: 6abae434d007e7c4caeda8de5b184e43
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d87e5d7a2e4f25a80e7db06aa3a4c1, type: 3}
+  m_Name: TutorialTestChart
+  m_EditorClassIdentifier: Assembly-CSharp::SongChart
+  songTitle: Tutorial Test Chart
+  music: {fileID: 0}
+  bpm: 120
+  chartOffsetSeconds: 0
+  totalBeats: 24
+  notes:
+  - beat: 4
+    padNote: 11
+    type: 0
+    holdBeats: 1
+  - beat: 6
+    padNote: 12
+    type: 0
+    holdBeats: 1
+  - beat: 8
+    padNote: 22
+    type: 0
+    holdBeats: 1
+  - beat: 10
+    padNote: 23
+    type: 1
+    holdBeats: 2
+  - beat: 14
+    padNote: 33
+    type: 0
+    holdBeats: 1
+  - beat: 16
+    padNote: 34
+    type: 0
+    holdBeats: 1
